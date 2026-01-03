@@ -1,5 +1,9 @@
 # Diabetes Classification: Predictive Analytics for Employee Health 🏥
 
+This project analyzes health data to develop a predictive model that predicts individuals at diabetes risk.  
+**Tech:** Python, pandas, scikit-learn, matplotlib, seaborn.  
+**Skills:** Data Cleaning & Preprocessing; Exploratory Data Analysis (EDA) & Visualization; Handling Class Imbalance (SMOTE Oversampling); Model Training & Evaluation.
+
 ## 📌 Project Overview
 Type 2 Diabetes Mellitus (DM2) creates a massive economic impact in the U.S., with a total annual economic burden of **$404B** as of 2017.  
 This project utilizes the **CDC Health Indicators Dataset** to build a predictive model aimed at the early identification of individuals at risk of undiagnosed diabetes. 
